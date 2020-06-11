@@ -1,0 +1,4 @@
+#Tue Jun 09 14:33:09 PDT 2020
+base.0=/Users/louiswollenberger/Desktop/DessertClicker-Starter/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
